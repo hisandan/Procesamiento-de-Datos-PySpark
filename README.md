@@ -11,4 +11,3 @@ Projecto perteneciente a la clase de Procesamiento de Datos a Gran Escala.
 
 **Autores:** Daniel Torres, Daniel Sandoval e Isaac Janica
 
-**Fecha:**
